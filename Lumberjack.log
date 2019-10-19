@@ -1,0 +1,9 @@
+INFO 2019-10-06 13:26:15,968 - our SECOND message
+DEBUG 2019-10-06 13:26:15,969 - This is a harmless debug message.
+INFO 2019-10-06 13:26:15,969 - Just some useful info.
+WARNING 2019-10-06 13:26:15,969 - I am sorry, but i cant do that, Dave.
+ERROR 2019-10-06 13:26:15,969 - divide by zero.
+CRITICAL 2019-10-06 13:26:15,969 - Internet is down!!!.
+INFO 2019-10-06 13:26:15,969 - quadratic_formula(1, 0, 1)
+DEBUG 2019-10-06 13:26:15,969 - # Compute the discriminant
+DEBUG 2019-10-06 13:26:15,969 - #Compute the two roots
