@@ -1,4 +1,4 @@
-Gits tutorial
+Git tutorial
 https://goalkicker.com/GitBook/?__s=z4p6szaebhofvt1gnhep (GitNotes for professional book)
 
     https://www.atlassian.com/git/tutorials/advanced-overview?__s=z4p6szaebhofvt1gnhep
