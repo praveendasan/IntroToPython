@@ -1,0 +1,6 @@
+Gits tutorial
+https://goalkicker.com/GitBook/?__s=z4p6szaebhofvt1gnhep (GitNotes for professional book)
+
+    https://www.atlassian.com/git/tutorials/advanced-overview?__s=z4p6szaebhofvt1gnhep
+    https://docs.microsoft.com/en-us/azure/devops/repos/git/gitworkflow?__s=z4p6szaebhofvt1gnhep&view=azure-devops
+    https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/?__s=z4p6szaebhofvt1gnhep
